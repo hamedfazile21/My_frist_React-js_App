@@ -1,0 +1,7 @@
+@font-face {
+    font-family:estedad ;
+    src: url(Fonts/estadad.ttf);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
